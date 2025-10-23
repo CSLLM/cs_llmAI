@@ -3,10 +3,6 @@
 
 <img width="1500" height="500" alt="imagen" src="https://github.com/user-attachments/assets/2f466a81-be74-47aa-ab16-2d633208f9b4" />
 
-
- 
-<div align="center">
-  <img src="https://i.imgur.com/U57V7Ug.jpg" alt="Banner" width="100%"/>
   
   # 🎮 AI Battle Royale: CS:GO Edition
   
