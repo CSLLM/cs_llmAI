@@ -1,0 +1,99 @@
+{
+  "game_settings": {
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "fps_target": 30,
+    "game_path": "C:/Program Files/Steam/steamapps/common/Counter-Strike Global Offensive/csgo.exe"
+  },
+  
+  "ai_models": {
+    "claude": {
+      "name": "Claude",
+      "color": "#9b87f5",
+      "default_strategy": "analytical",
+      "reaction_time_base": 0.18,
+      "accuracy_base": 0.65,
+      "playstyle": "defensive"
+    },
+    "chatgpt": {
+      "name": "ChatGPT",
+      "color": "#10a37f",
+      "default_strategy": "adaptive",
+      "reaction_time_base": 0.21,
+      "accuracy_base": 0.60,
+      "playstyle": "balanced"
+    },
+    "gemini": {
+      "name": "Gemini",
+      "color": "#4285f4",
+      "default_strategy": "strategic",
+      "reaction_time_base": 0.19,
+      "accuracy_base": 0.63,
+      "playstyle": "tactical"
+    },
+    "grok": {
+      "name": "Grok",
+      "color": "#00ff00",
+      "default_strategy": "aggressive",
+      "reaction_time_base": 0.16,
+      "accuracy_base": 0.58,
+      "playstyle": "rusher"
+    }
+  },
+  
+  "difficulty_levels": {
+    "easy": {
+      "reaction_multiplier": 2.0,
+      "accuracy_multiplier": 0.6,
+      "bot_count": 3
+    },
+    "medium": {
+      "reaction_multiplier": 1.0,
+      "accuracy_multiplier": 1.0,
+      "bot_count": 5
+    },
+    "hard": {
+      "reaction_multiplier": 0.5,
+      "accuracy_multiplier": 1.4,
+      "bot_count": 9
+    }
+  },
+  
+  "match_settings": {
+    "default_duration": 600,
+    "rounds_to_win": 16,
+    "freeze_time": 15,
+    "round_time": 115,
+    "bomb_timer": 40
+  },
+  
+  "logging": {
+    "enabled": true,
+    "log_directory": "./logs",
+    "save_screenshots": true,
+    "stats_interval": 5,
+    "detailed_logs": false
+  },
+  
+  "vision": {
+    "enemy_detection": {
+      "color_threshold": 500,
+      "min_contour_area": 500,
+      "max_distance": 100
+    },
+    "hud_regions": {
+      "health": [980, 1020, 100, 200],
+      "ammo": [1650, 1050, 1850, 1080],
+      "radar": [20, 20, 250, 250]
+    }
+  },
+  
+  "controls": {
+    "mouse_sensitivity": 1.0,
+    "smooth_aim_steps": 10,
+    "burst_delay": 0.1,
+    "movement_duration": 0.3
+  }
+}
