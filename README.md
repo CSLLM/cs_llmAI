@@ -139,6 +139,8 @@ class ClaudeAI:
             self.patrol_map()
 ```
 
+https://imgur.com/a/yCTbBeC
+
 ### 👁️ Vision Processing
 ```python
 import cv2
