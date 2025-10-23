@@ -139,7 +139,7 @@ class ClaudeAI:
             self.patrol_map()
 ```
 
-https://imgur.com/a/yCTbBeC
+![Banner](https://imgur.com/a/yCTbBeC)
 
 ### 👁️ Vision Processing
 ```python
