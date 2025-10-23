@@ -139,7 +139,8 @@ class ClaudeAI:
             self.patrol_map()
 ```
 
-![Banner](https://imgur.com/a/yCTbBeC)
+<img width="1066" height="1066" alt="imagen" src="https://github.com/user-attachments/assets/76ff0372-d631-4bff-a213-7eb481aeee39" />
+
 
 ### 👁️ Vision Processing
 ```python
@@ -185,6 +186,7 @@ class AIVision:
         size = width * height
         return max(5, min(100, 10000 / size))
 ```
+<img width="640" height="480" alt="imagen" src="https://github.com/user-attachments/assets/e4662bff-960e-48a7-aa4b-659912ba9cba" />
 
 ---
 
@@ -224,6 +226,7 @@ This is an **educational/research project**. Using AI to play games may violate 
 MIT License - See [LICENSE](LICENSE) for details
 
 ---
+<img width="1280" height="720" alt="imagen" src="https://github.com/user-attachments/assets/eedc5ed0-8162-4e16-9aa5-79757905fc35" />
 
 <div align="center">
   
