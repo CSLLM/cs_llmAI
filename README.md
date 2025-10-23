@@ -4,7 +4,7 @@
 <img width="1500" height="500" alt="imagen" src="https://github.com/user-attachments/assets/2f466a81-be74-47aa-ab16-2d633208f9b4" />
 
   
-  # 🎮 AI Battle Royale: CS:GO Edition
+  # 🎮 CS:GO Edition
   
   ### Four AI Models Fighting for Supremacy
   
